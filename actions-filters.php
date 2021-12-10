@@ -9,6 +9,7 @@ add_action( 'all', 'troubleshoot_all_actions' );
 function troubleshoot_all_actions() {
     static $pre = [];
     $filter = current_filter();
+    
     // The filter your looking for
     if( 'pre_' === substr( $filter, 0, 4 ) ) {
         $pre[] = $filter;
