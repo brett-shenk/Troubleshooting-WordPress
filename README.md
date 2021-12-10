@@ -14,3 +14,6 @@ Currently not known how many hooks are output but you will have quite a few to g
 
 ### [Smarter Var Dump](v_dump.php)
 A smarter `var_dump()` function. Write less code!
+
+### [Only On This Page](current-page.php)
+While using WordPress chances are you will need something on a specific page. Here's a handy snippet!
