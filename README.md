@@ -17,3 +17,6 @@ A smarter `var_dump()` function. Write less code!
 
 ### [Only On This Page](current-page.php)
 While using WordPress chances are you will need something on a specific page. Here's a handy snippet!
+
+### [Theme Directory](theme-directory.php)
+Various methods to get to the site's directory.

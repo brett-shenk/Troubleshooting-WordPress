@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Only On This Page
+ * @package Only on this page
  * @todo    Place where needed
 **/
 

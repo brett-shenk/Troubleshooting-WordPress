@@ -2,7 +2,7 @@
 /**
  * @package List all actions & filters
  * @todo    Place temporarily in functions.php view the page and get your results
- * @todo    then remove it. This is very taxing and will output a massive JSON Array
+ * @todo    then remove it. This is very taxing and will output a massive JSON array
 **/
 
 add_action( 'all', 'troubleshoot_all_actions' );
