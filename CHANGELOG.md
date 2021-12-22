@@ -8,6 +8,9 @@
 
 <br>
 
+1.1.1 | 12/22/2021 | FIX
+- Fix link to Specific Site snippet.
+
 1.1.0 | 12/21/2021 | BUILD
 - Added the theme directory snippets.
 - Add site specific snippet (wp-config.php edit)
