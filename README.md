@@ -21,5 +21,5 @@ While using WordPress chances are you will need something on a specific page. He
 ### [Theme Directory](theme-directory.php)
 Various methods to get to the site's directory.
 
-### [Specific Site](./specific_site.php)
+### [Specific Site](specific_site.php)
 Get a specific site for 1 reason or another. For example get a different category ID for Production, Staging and Development.
