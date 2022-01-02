@@ -1,8 +1,10 @@
 # Troubleshooting WordPress
 
-A collection of functions to help troubleshoot various things on WordPress. 
+A collection of functions to help troubleshoot various things on WordPress. It ranges from helping you debug a script to targeting a specific page that doesn't have a specific function to hook into.
 
-<br>
+PHP: 5.6+<br>
+WordPress 5.0+<br>
+Tested with: WordPress 5.8
 
 # Content
 
