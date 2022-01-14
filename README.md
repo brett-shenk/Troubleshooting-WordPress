@@ -1,8 +1,10 @@
 # Troubleshooting WordPress
 
-A collection of functions to help troubleshoot various things on WordPress. 
+A collection of functions to help troubleshoot various things on WordPress. It ranges from helping you debug a script to targeting a specific page that doesn't have a specific function to hook into.
 
-<br>
+PHP: 5.6+<br>
+WordPress 5.0+<br>
+Tested with: WordPress 5.8
 
 # Content
 
@@ -21,5 +23,5 @@ While using WordPress chances are you will need something on a specific page. He
 ### [Theme Directory](theme-directory.php)
 Various methods to get to the site's directory.
 
-### [Specific Site](theme-directory.php)
+### [Specific Site](specific_site.php)
 Get a specific site for 1 reason or another. For example get a different category ID for Production, Staging and Development.

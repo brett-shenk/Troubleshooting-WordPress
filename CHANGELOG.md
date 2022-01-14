@@ -8,6 +8,12 @@
 
 <br>
 
+1.1.2 | 12/28/2021 | Build
+- Add more site specific functions. Very useful, even if you can't get to wp-config.php for whatever reason.
+
+1.1.1 | 12/22/2021 | FIX
+- Fix link to Specific Site snippet.
+
 1.1.0 | 12/21/2021 | BUILD
 - Added the theme directory snippets.
 - Add site specific snippet (wp-config.php edit)
