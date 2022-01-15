@@ -8,6 +8,14 @@
 
 <br>
 
+1.2.0 | 1/15/2022 | Build
+- Remove action/filter file. Use Query Monitor
+- Update readme file order
+- Function to show all image sizes
+- add a lot of snippets for wp-config
+- Add *ALOT* of standalone snippets for getting your current page. From PHP to WordPress to Plugins.
+- Add WordPress's standalone wp_get_theme function.
+
 1.1.2 | 12/28/2021 | Build
 - Add more site specific functions. Very useful, even if you can't get to wp-config.php for whatever reason.
 
