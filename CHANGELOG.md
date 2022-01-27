@@ -8,6 +8,9 @@
 
 <br>
 
+1.2.1 | 1/27/2022 | Build
+- Add option current page array search to remove the domain from the array
+
 1.2.0 | 1/15/2022 | Build
 - Remove action/filter file. Use Query Monitor
 - Update readme file order

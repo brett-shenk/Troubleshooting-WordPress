@@ -32,6 +32,21 @@ $single_url = array_slice($url, -1)[0];
 // }
 
 
+$url_index = array_search('<your-site-domain.com>', $url);
+if($url_index !== FALSE){
+	unset($url[$url_index]);
+}
+$url = array_values( $url );
+
+// var_dump( $url );
+// array(3) {
+//     [0]=>
+//     string(10) "my-account"
+//     [1]=>
+//     string(13) "my-membership"
+// }
+
+
 
 
 /**********************************************************************************/
