@@ -1,6 +1,6 @@
 <?php
 /**
- * @package 
+ * @package Image Sizes
  * @todo    Place in functions.php file
 **/
 

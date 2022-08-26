@@ -17,6 +17,9 @@ Display all additional wordpress image sizes. Doesn't show default sizes [thumbn
 ### [Only On This Page](current-page.php)
 While using WordPress chances are you will need something on a specific page. Here's a handy snippet!
 
+### [Check for Admin](current-page-admin.php)
+Show / Hide something for a specific admin / editor.
+
 ### [Smarter Var Dump](v_dump.php)
 A smarter `var_dump()` function. Write less code!
 
